@@ -11,3 +11,5 @@ RegisterCommand('hands', function()
         handsup = false
     end
 end)
+
+RegisterKeyMapping('hands', 'Put your hands up.', 'keyboard', 'x')
