@@ -1,1 +1,1 @@
-# <h1 style='font-family: Arial; text-align: center;'>Alv Hands Up</h1>
+# <h1 style='font-family: Arial; text-align: center; align-items: center;'>Alv Hands Up</h1>
