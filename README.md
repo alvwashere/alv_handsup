@@ -23,3 +23,6 @@ CreateThread(function() -- Shouldn't really be running this in a thread from the
       -- If you want to do something as the player does not have their hands up do it here
   end
 end
+```
+
+<p align='center'>If you are looking for a Developer with over 3 years of experience on FiveM, feel free to join my [Discord Server](https://discord.gg/alv) or visit my [Website](https://alv.gg)!</p>
