@@ -25,4 +25,4 @@ CreateThread(function() -- Shouldn't really be running this in a thread from the
 end
 ```
 
-<p align='center'>If you are looking for a Developer with over 3 years of experience on FiveM, feel free to join my [Discord Server](https://discord.gg/alv) or visit my [Website](https://alv.gg)!</p>
+<p align='center'>If you are looking for a Developer with over 3 years of experience on FiveM, feel free to join my <a href='https://discord.gg/alv'>Discord Server</a> or my <a href='https://alv.gg'>Website</a>!</p>
