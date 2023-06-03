@@ -25,4 +25,13 @@ CreateThread(function() -- Shouldn't really be running this in a thread from the
 end
 ```
 
+### Installing this to your server.
+
+<p align='center'>
+  <strong>1.</strong> If you have a hands up script already, remove it from your server to prevent interference with this new system.
+  <strong>2.</strong> From there, you can download this repository and simply drag it into your server files, not a complicated installation at all.
+  <strong>3.</strong> Head over to your <code>server.cfg</code> and make sure you add <code>ensure alv_handsup</code> somewhere within your config.
+  <strong>4.</strong> Once you have completed those steps, the script is ready to be used simply restart your server and you are good to go!
+</p>
+
 <p align='center'>If you are looking for a Developer with over 3 years of experience on FiveM, feel free to join my <a href='https://discord.gg/alv'>Discord Server</a> or my <a href='https://alv.gg'>Website</a>!</p>
