@@ -14,6 +14,7 @@ CreateThread(function()
   end
 ```
 <p align='center'><strong>From the server side:</strong></p>
+
 ```lua 
 CreateThread(function() -- Shouldn't really be running this in a thread from the server side unless you change how source is received as it is currently nil this is just for example
   if Player(source).state.handsup then
@@ -22,4 +23,3 @@ CreateThread(function() -- Shouldn't really be running this in a thread from the
       -- If you want to do something as the player does not have their hands up do it here
   end
 end
-```
