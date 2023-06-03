@@ -4,11 +4,12 @@
 
 <h2 align='center'>How to check if the player is surrendering...</h2>
 <p align='center'><strong>From the client side:</strong></p>
-<code>
+
+```lua 
 CreateThread(function()
   if LocalPlayer.state.handsup then
     -- Do something, as the player has their hands up
   else
     -- If you want to do something as the player doesn't have their hands up do it here
   end
-</code>
+```
